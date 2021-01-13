@@ -27,3 +27,5 @@ arquivos de conf e uma página de teste, após isso acesse o ip no navegador e v
 Configure o caminho da sua chave .pem da aws no arquivo terraform/inventory.tmpl
 
 <b>ansible_ssh_private_key_file='endereco-da-sua-chave/terraform.pem'</b>
+
+Esse arquivo é responsável por criar a config que a playbook do ansible irá acessar, personalize com o nome de usuario da ec2, endereço da chave e nome de grupo de hosts por exemplo.
