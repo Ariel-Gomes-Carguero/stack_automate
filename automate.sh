@@ -8,7 +8,7 @@
 #####   ESCRITO POR:     Ariel Gomes
 #####   E-MAIL:          arieldesenvolvedor@gmail.com
 #####   LICENÇA:         GPLv3
-#####   PROJETO:         https://github.com/arielgs/terraform_labs.git
+#####   PROJETO:         https://github.com/arielgs/stack_automate
 
 
 
